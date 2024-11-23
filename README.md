@@ -6,9 +6,10 @@
     cd dic-repo-flask
     code .
     ```
-2.  Ativar el entorno virtual
+2.  Activar el entorno virtual
     ```bash
     virtualenv .venv
     source .venv/Scripts/activate
     pip install -r requirements.txt
     ```
+3. 
